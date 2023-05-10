@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am editing the README file. Adding some more details about the project description.
+I am using this repository to develope my programming skills.
+
 <!--
 **Mon-MCS/Mon-MCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
